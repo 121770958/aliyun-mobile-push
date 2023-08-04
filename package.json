@@ -1,0 +1,60 @@
+{
+  "_from": "aliyun-mobile-push",
+  "_id": "aliyun-mobile-push@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-5cZCQYQFZHDJZOAbyKZoqA76pZG92u4ZJKmjsxvoS1ePxZ7/cxq4pJ5dv7x18Sqf2BzVNLFTmdFqgUVEOqOrKw==",
+  "_location": "/aliyun-mobile-push",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "aliyun-mobile-push",
+    "name": "aliyun-mobile-push",
+    "escapedName": "aliyun-mobile-push",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/aliyun-mobile-push/-/aliyun-mobile-push-1.1.2.tgz",
+  "_shasum": "5dde51032cb9c1752a8cacf5fef7723446878080",
+  "_spec": "aliyun-mobile-push",
+  "_where": "/Users/liusai/workspace/aliyun-mobile-push",
+  "author": {
+    "name": "liusai"
+  },
+  "bugs": {
+    "url": "https://github.com/121770958/aliyun-mobile-push/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "hmac": "^1.0.1",
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  },
+  "deprecated": false,
+  "description": "这个包是用来做阿里云移动推送的,可以调用移动推送的所有api",
+  "homepage": "https://github.com/121770958/aliyun-mobile-push#readme",
+  "keywords": [
+    "aliyun",
+    "Aliyun",
+    "aliyun-mobile-push",
+    "mobile-push",
+    "Aliyun-push"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "aliyun-mobile-push",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/121770958/aliyun-mobile-push.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}
